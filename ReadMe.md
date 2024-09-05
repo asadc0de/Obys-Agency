@@ -21,5 +21,3 @@ It was a very great project to deep dive into CSS and Javascript and comibing bo
 - Used CSS Animation for the `horizontal animation` and `Let's create`
 - Used Js to implement the `loading page` and `Counter`  
 - It  was really very good project on learning perspective.  
-- ⚠️ Making it resposnive soon :)  
->Thanks to Sheriyans Coding School for  such an awesome content :  [Youtube ](https://www.youtube.com/@sheryians)
